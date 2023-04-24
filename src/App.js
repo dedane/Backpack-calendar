@@ -56,7 +56,7 @@ const App = () => {
       
       
     </main>
-    <BpkButton onClick={() => alert('It works!')}>Click me</BpkButton>
+    <BpkButton onClick={() => alert('You choose your next flight!')}>Continue</BpkButton>
   </div> )
 };
 
